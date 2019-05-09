@@ -29,8 +29,9 @@ printf "
 ########################
 #                      #
 #     DDoS Attack      #
-#    Made By HBM       #
-# Copyright (c) 2019   #
+#     Made By HBM      #
+#  Copyright (c) 2019  #
+#                      #
 ########################
 #####################################
 # Your Connection Might Be Offline  #
@@ -39,9 +40,9 @@ printf "
 #//Attacking Site Using External IP #
 #####################################
 #######################################
-#Press Control-C To Stop
-#https://github.com/endermrn/
-######################################
+#Press Control-C To Stop              #
+#https://github.com/checkzaza123s/    #
+#######################################
           
 Packets : 8000 // Soon The Site Will Go Down !!\n";
 
