@@ -29,8 +29,8 @@ printf "
 ########################
 #                      #
 #     DDoS Attack      #
-#    Made By Endermrn  #
-# Copyright (c) 2016   #
+#    Made By HBM       #
+# Copyright (c) 2019   #
 ########################
 #####################################
 # Your Connection Might Be Offline  #
